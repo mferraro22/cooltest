@@ -6,5 +6,6 @@ public class Main {
 	System.out.println("hi");
 	System.out.println("booom");
 	System.out.println("new code");
+	System.out.println("latest test");
     }
 }
